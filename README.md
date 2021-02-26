@@ -1,2 +1,2 @@
-# Stellarium-Cepheid-Calculator
-Stellarium Cepheid Calculator
+# Stellarium-Cepheid-Hunter
+Stellarium Cepheid Hunter
